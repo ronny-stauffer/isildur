@@ -1,0 +1,1 @@
+> mosquitto_sub.exe -i isildur -h localhost -p 11883 -t openhab/m2s/update/# -v
